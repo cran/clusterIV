@@ -1,0 +1,11 @@
+52d7954eb37089c3c65814fcd6aca55b *DESCRIPTION
+5a8e68c90097664a942b3a8e20df312a *LICENSE
+731b8b122da5efb4e9b91b342fe1f800 *NAMESPACE
+599468a3b0c7796bbf28f6252b02eb03 *R/cjive.R
+212b8f95cfa346c4ca99fa8597c64fbc *R/internals.R
+43394ba92ce7f5cbddc7738fba8db1ef *R/iv_compare.R
+c337d393c66e06bd7fb0f30c4e3ce564 *R/methods.R
+7c1431b533e9e124cd56333baf8947bc *README.md
+653cb2925cbf4b55ac6a43e533806641 *man/cjive.Rd
+77a34592cfb6a054e1e99eadab40f14b *man/iv_compare.Rd
+8a9ec4c8789db96a4221cb96d0080453 *tests/test-cjive.R
